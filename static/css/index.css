@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: #0D7792;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+.header{
+	margin-top:10px;
+	margin-left: auto;
+	margin-right: auto;
+	width:90%;
+	border-collapse:collapse;
+}
+.header td{
+	border: 0
+}
+.header_url{
+	text-align: right;
+}
+
+.body{
+	border-collapse:collapse;
+	width:90%;
+	margin:auto;
+}
+.main{
+	margin:auto;
+	width:800px;
+	background-color: #FFF;
+	border-radius: 25px;
+}
+
+td{
+	border: 1px solid ;
+	font-size: 12px;
+}
